@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899248619007",
+    "firebase_url": "https://twitter-26ea5.firebaseio.com",
+    "project_id": "twitter-26ea5",
+    "storage_bucket": "twitter-26ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899248619007:android:c410b36878b99fc7",
+        "android_client_info": {
+          "package_name": "com.ragul.ragulan.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899248619007-gmp3ftfsmehns03g9f1ou1sket96seug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ragul.ragulan.twitter",
+            "certificate_hash": "798603792e05808d8d26ecdc9f3283d8a754a8cb"
+          }
+        },
+        {
+          "client_id": "899248619007-miom08vt2mhjv9err9llgtkcps2g10is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yX_DWdRACD9S19iwhU-Nq6cg2W8y2lA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899248619007-miom08vt2mhjv9err9llgtkcps2g10is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
